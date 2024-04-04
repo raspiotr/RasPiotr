@@ -52,6 +52,6 @@ Polish - native | English - upper-intermediate (B2)
   <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="./images/indesign-original.png" title="InDesign" alt="InDesign" width="40" height="40"/>&nbsp;
-  <img src="./images/photoshop-original.png" title="PhotoShop" alt="PhotoShop" width="40" height="40"/>&nbsp;
+  <img src="./images/indesign-original.png" title="InDesign" alt="InDesign" width="45" height="45"/>&nbsp;
+  <img src="./images/photoshop-original.png" title="Photoshop" alt="Photoshop" width="45" height="45"/>&nbsp;
 </div>
