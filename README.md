@@ -48,7 +48,7 @@ Polish - native | English - upper-intermediate (B2)
     <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
   <img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-  <img src="./images/heroku-original.svg" title="Heroku" alt="Heroku" width="60" height="60"/>&nbsp;
+  <img src="./images/heroku-original.png" title="Heroku" alt="Heroku" width="45" height="45"/>&nbsp;
   <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
