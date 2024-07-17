@@ -11,7 +11,7 @@ Hello, I'm Piotr!
   
 ### 👨‍💻 About Me :
 I currently work as a **DTP graphic designer**, and I have completed a **Full Stack** development course. <br> 
-My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React.js** and **Node.js**. <br>
+My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React.js** and **Node.js**. <br>
 Additionally, I am familiar with WordPress and WooCommerce. <br>
 
 <img align="right" src="./assets/code.gif" width="380" height="220"><br>
@@ -20,8 +20,8 @@ Polish - native | English - upper-intermediate (B2)
 
 ### Roadmap 2024 :
 
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `Node.js` <br>
-📚 - **Learn:** `TypeScript` | `Next.js` <br>
+✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `React` | `Node.js` <br>
+📚 - **Learn:** `Next.js` <br>
 
 <br>
 <br>
