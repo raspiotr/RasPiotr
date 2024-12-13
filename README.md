@@ -18,7 +18,7 @@ Additionally, I am familiar with WordPress and WooCommerce. <br>
 🌐 **Languages** :
 Polish - native | English - upper-intermediate (B2)
 
-### Roadmap 2024 :
+### Roadmap 2025 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `React` | `Node.js` <br>
 📚 - **Learn:** `Next.js` <br>
